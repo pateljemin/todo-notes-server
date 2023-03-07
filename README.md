@@ -90,10 +90,20 @@ You will get all the notes in response of the logged in user.
 GET /notes/
 ```
 
-## Test
+## Run Test Cases
 
 To run test cases run following command
 ```
 npm run test
 ```
+
+# Demo Videos
+### Part 1
+https://www.loom.com/share/7c5dbe50cff642e9ba9d6b6a5ae1e016
+
+### Part 2
+https://www.loom.com/share/a702117f1c09432ca51c6e07ed5373aa
+
+### Part 3
+https://www.loom.com/share/28bdb345411e4e02a1c9d96bc4e3e4bf
 
